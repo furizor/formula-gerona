@@ -1,0 +1,15 @@
+E:\ДЗ по БД и программированию\Разработка модулей\DZ\venom\venom\bin\Debug\venom.exe.config
+E:\ДЗ по БД и программированию\Разработка модулей\DZ\venom\venom\bin\Debug\venom.exe
+E:\ДЗ по БД и программированию\Разработка модулей\DZ\venom\venom\bin\Debug\venom.pdb
+E:\ДЗ по БД и программированию\Разработка модулей\DZ\venom\venom\obj\Debug\venom.csproj.AssemblyReference.cache
+E:\ДЗ по БД и программированию\Разработка модулей\DZ\venom\venom\obj\Debug\venom.csproj.SuggestedBindingRedirects.cache
+E:\ДЗ по БД и программированию\Разработка модулей\DZ\venom\venom\obj\Debug\venom.csproj.CoreCompileInputs.cache
+E:\ДЗ по БД и программированию\Разработка модулей\DZ\venom\venom\obj\Debug\venom.exe
+E:\ДЗ по БД и программированию\Разработка модулей\DZ\venom\venom\obj\Debug\venom.pdb
+F:\ДЗ по БД и программированию\Разработка модулей\DZ\venom\venom\bin\Debug\venom.exe.config
+F:\ДЗ по БД и программированию\Разработка модулей\DZ\venom\venom\bin\Debug\venom.exe
+F:\ДЗ по БД и программированию\Разработка модулей\DZ\venom\venom\bin\Debug\venom.pdb
+F:\ДЗ по БД и программированию\Разработка модулей\DZ\venom\venom\obj\Debug\venom.csproj.AssemblyReference.cache
+F:\ДЗ по БД и программированию\Разработка модулей\DZ\venom\venom\obj\Debug\venom.csproj.CoreCompileInputs.cache
+F:\ДЗ по БД и программированию\Разработка модулей\DZ\venom\venom\obj\Debug\venom.exe
+F:\ДЗ по БД и программированию\Разработка модулей\DZ\venom\venom\obj\Debug\venom.pdb
